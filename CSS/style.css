@@ -1,0 +1,52 @@
+.img-cart{
+  max-width: 100%;
+
+}
+
+
+
+.text-bold{
+  font-weight: bold;
+}
+
+table.basket {
+  border-collapse: collapse;
+  border: 1ps solid  #666;
+}
+
+table.basket td {
+  border: 1px solid #666;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+table.basket img {
+  width: 48px;
+}
+
+table.basket span.total {
+  font-weight: 800;
+}
+
+.goods img {
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+  max-height:  222px;
+}
+
+.goods h2 {
+  font-size: 22px;
+  margin: 0 0 20px 0;
+  line-height: 100%;
+}
+
+.goods .package.featured.text-center {
+  text-align: center;
+}
+
+.goods .package.featured p.price {
+  font-size: 16px;
+  font-weight: 800;
+  margin: 20px 0;
+}
