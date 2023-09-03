@@ -5,13 +5,13 @@ const goods = {
   "p92779": {
       "name": "Мужские часы CASIO G-2900F-8VER",
       "url": "#",
-      "image": "../images/casio-g-2900f-8ver_images_1650372917.jpg",
+      "image": "/images/casio-g-2900f-8ver_images_1650372917.jpg",
       "price": 1720.00
   },
   "p93039": {
       "name": "Мужские часы CASIO AE-1000W-1AVEF",
       "url": "#",
-      "image": "../images/casio-ae-1000w-1avef_images_1675943357.jpg",
+      "image": "./images/casio-ae-1000w-1avef_images_1675943357.jpg",
       "price": 872.00
   },
   "p63553250": {
