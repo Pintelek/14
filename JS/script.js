@@ -5,11 +5,9 @@ if(localStorage.getItem('basket')){
   dataBasket = JSON.parse(localStorage.getItem('basket'));
 }
 
-console.log(dataBasket)
 
 const basket = new Basket(dataBasket);
 
-console.log(basket.getTotal())
 let blockBasket = document.querySelector('.basket')
 
 blockBasket.append(basket.render());
